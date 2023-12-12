@@ -4,3 +4,14 @@ langchain
 sentence-transformers
 faiss-cpu
 text-generation
+gradio
+pypdf
+langchain
+sentence-transformers
+faiss-cpu
+text-generation
+kaleido
+cohere
+openai
+tiktoken
+typing-extensions
